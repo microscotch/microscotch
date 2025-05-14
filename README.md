@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @microscotch
 - 👀 I’m interested in containers, docker, kubernetes, automation, Jenkins, CI/CD, cloud
-- 🌱 I’m currently learning Jenkins groovy programming to drive all from one
+- 🌱 I’m currently contributing to some Jenkins plugins
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
